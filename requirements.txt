@@ -1,0 +1,7 @@
+langchain
+langgraph
+langsmith
+langchain-community
+langchain_deepseek
+reportlab   
+python-dotenv
