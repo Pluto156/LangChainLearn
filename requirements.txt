@@ -4,6 +4,7 @@ langchain
 langchain-core
 langchain-deepseek
 langserve
+langchain_community
 pydantic
 python-dotenv
 sse_starlette
