@@ -1,7 +1,9 @@
+fastapi
+uvicorn
 langchain
-langgraph
-langsmith
-langchain-community
-langchain_deepseek
-reportlab   
+langchain-core
+langchain-deepseek
+langserve
+pydantic
 python-dotenv
+sse_starlette
